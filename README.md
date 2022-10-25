@@ -20,7 +20,7 @@ End the program
 ## PROGRAM:
 ```python
 #Developed by: Sivabalan S
-#RegisterNumber:22004401
+#Register Number:22004401
 n1,n2=int(input()),int(input())
 temp=n2
 n2=n1
